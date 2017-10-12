@@ -28,16 +28,3 @@ I the above commands run sucessfuly. Your system is ready.
 	Time  : 10:00AM to 12:30AM
 (You can go see lecture_slide folder to know the topics to be covered .)
 
-Download the following folders:
-
-	1. linear_reg
-	
-	2. multivariable_reg
-	
-	3. feature_eng
-	
-	4. schocastic_grad
-	
-These folders have password protected zip files.
-Download all the above folders.
-Password will be in the lecture.
