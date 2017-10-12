@@ -20,6 +20,9 @@ The page will contain all the data and Links  required for the course.
 
 Download the following Folders:
 	1. linear_reg
+	
 	2. multivariable_reg
+	
 	3. feature_eng
+	
 	4. schocastic_grad
