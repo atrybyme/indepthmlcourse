@@ -19,6 +19,7 @@ The page will contain all the data and Links  required for the course.
 (You can go see lecture_slide folder to know the topics to be covered .)
 
 Download the following Folders:
+
 	1. linear_reg
 	
 	2. multivariable_reg
