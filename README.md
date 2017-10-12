@@ -26,5 +26,5 @@ I the above commands run sucessfuly. Your system is ready.
 	Venue : Lecture Hall 2
 	Date  : 14-10-17
 	Time  : 10:00AM to 12:30AM
-(You can go see lecture_slide folder to know the topics to be covered .)
-
+(You can  see lecture_slide folder to know the topics to be covered .)
+Dummy,practice and problem codes will be uploaded soon. Stay tuned
