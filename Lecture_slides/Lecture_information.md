@@ -6,6 +6,7 @@
     4.Normal Equation
     5.Locally Weighed Regression
 
-'''python
-print("hELLO wORLD") 
-'''
+```python
+s = "Python syntax highlighting"
+print s
+```
