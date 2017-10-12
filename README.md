@@ -13,4 +13,13 @@ The page will contain all the data and Links  required for the course.
 2.Elementry Matrix Operation.
 
 ## Lecture 1 :
-	
+	Venue : Lecture Hall 2
+	Date  : 14-10-17
+	Time  : 10:00AM to 12:30AM
+(You can go see lecture_slide folder to know the topics to be covered .)
+
+Download the following Folders:
+	1. linear_reg
+	2. multivariable_reg
+	3. feature_eng
+	4. schocastic_grad
