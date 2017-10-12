@@ -1,5 +1,7 @@
-# Lecture Scheduled:
-Lecture 1 : 
-    Date 14-10-17
-    Time 10:00AM to 1:40PM
-    Venue : 
+# Content of Lecture:
+## Lecture 1:
+    1.Linear Regression
+    2.Batch Gradient Descent
+    3.Stochastic Gradient Descent
+    4.Normal Equation
+    5.Locally Weighed Regression
