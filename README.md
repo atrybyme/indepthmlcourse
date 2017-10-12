@@ -7,6 +7,16 @@ The page will contain all the data and Links  required for the course.
 	Go to Anaconda webpage to download.
 	
 	Link: https://www.anaconda.com/download
+2. Check your installation by opening terminal and then running the follwing commands
+
+```python```
+
+```python
+import numpy
+import matplotlib
+import sklearn
+```
+I the above commands run sucessfuly. Your system is ready.
 ## Prerequisites
 1.Elementry python knowledge.
 (To practice simple python problem visit :https://www.hackerrank.com/iitg-python-practice)
@@ -18,7 +28,7 @@ The page will contain all the data and Links  required for the course.
 	Time  : 10:00AM to 12:30AM
 (You can go see lecture_slide folder to know the topics to be covered .)
 
-Download the following Folders:
+Download the following folders:
 
 	1. linear_reg
 	
@@ -27,3 +37,7 @@ Download the following Folders:
 	3. feature_eng
 	
 	4. schocastic_grad
+	
+These folders have password protected zip files.
+Download all the above folders.
+Password will be in the lecture.
