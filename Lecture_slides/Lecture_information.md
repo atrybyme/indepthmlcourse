@@ -6,4 +6,6 @@
     4.Normal Equation
     5.Locally Weighed Regression
 
-''' print("hELLO wORLD") '''
+'''python
+print("hELLO wORLD") 
+'''
