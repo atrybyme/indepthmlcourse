@@ -20,11 +20,12 @@ I the above commands run sucessfuly. Your system is ready.
 ## Prerequisites
 1.Elementry python knowledge.
 (To practice simple python problem visit :https://www.hackerrank.com/iitg-python-practice)
-2.Elementry Matrix Operation.
+2.Elementry Matrix Operation
+3.Basic knowledge of probablity(optional)
 
-## Lecture 1 :
-	Venue : Lecture Hall 2
-	Date  : 14-10-17
-	Time  : 10:00AM to 12:30AM
+## Lecture 2 :
+	Venue : Conference Hall 2
+	Date  : 21-10-17
+	Time  : 2:00PM to 4:00PM
 (You can  see lecture_slide folder to know the topics to be covered .)
-####Download all the codes from the 'codesforlecture1' folder.
+####Download all the codes from the 'codesforlecture2' folder.
