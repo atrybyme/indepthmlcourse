@@ -28,4 +28,5 @@ I the above commands run sucessfuly. Your system is ready.
 	Date  : 21-10-17
 	Time  : 2:00PM to 4:00PM
 (You can  see lecture_slide folder to know the topics to be covered .)
-####Download all the codes from the 'codesforlecture2' folder.
+
+#### Download all the codes from the 'codesforlecture2' folder.
